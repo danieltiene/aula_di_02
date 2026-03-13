@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: silver;
+    color: black;
+}
+header{
+    background-color: red;
+    color: whitesmoke;
+}
+main{
+    background-color: whitesmoke;
+    padding: auto;
+}
+footer{
+    background-color: dimgray;
+    color: white;
+    height: 100px;
+}
+a{
+    color: white;
+    padding: 5px;
+}
